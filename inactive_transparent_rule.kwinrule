@@ -1,0 +1,10 @@
+[Inactive_Transparent]
+Description=Inactive_Transparent
+opacityactive=100
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+types=377
+wmclass=
+wmclasscomplete=false
+wmclassmatch=0
